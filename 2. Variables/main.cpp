@@ -8,6 +8,7 @@ int main(){
 	int i = 25; //This is a C++ integer.
 	float f = 22.5; //This is a C++ float.
 	char c = 'A'; //This is a C++ character.
+	bool b = true; //This is a C++ boolean value set to true.
 	auto a = "aks" //This type automatically determines the variable type
 	
 	cout << (i + 25) <<endl; //Returns an integer.
@@ -17,4 +18,5 @@ int main(){
 	//Floats are actually decimals.
 	//Strings are made of chars, so they are fully compatible with each other.
 	//Chars are single characters.
+	//bools are just simple true/false statements.
 }

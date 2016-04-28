@@ -9,6 +9,7 @@ namespace DefaultNamespace
 			int i = 25; //This is a C# integer.
 			float f = 22.5; //This is a C# float.
 			char c = 'A'; //This is a C# character.
+			bool b = true //This is a C# boolean variable set to True.
 			var a = "aks" //This type automatically determines the variable type
 	
 			Console.WriteLine((i + 25).ToString()); //Returns an integer.
@@ -18,6 +19,7 @@ namespace DefaultNamespace
 			//Floats are actually decimals.
 			//Strings are made of chars, so they are fully compatible with each other.
 			//Chars are single characters.
+			//Bools are just simple true/false statements.
 			//Console.WriteLine can only output strings, so any other types must be converted.
 			
 		}
